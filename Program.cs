@@ -25,8 +25,8 @@ class Program
         vid6.IncreasePlayCount(37262);
         vid7.IncreasePlayCount(29239);
         vid8.IncreasePlayCount(59123);
-        vid9.IncreasePlayCount(65142);
-        vid10.IncreasePlayCount(11111);
+        //vid9.IncreasePlayCount(65142);
+        //vid10.IncreasePlayCount(11111);
 
         Console.WriteLine("Pengetesan method PrintVideoDetails()");
         vid6.PrintVideoDetails();
@@ -39,8 +39,8 @@ class Program
         user.AddVideo(vid6);
         user.AddVideo(vid7);
         user.AddVideo(vid8);
-        user.AddVideo(vid9);
-        user.AddVideo(vid10);
+        //user.AddVideo(vid9);
+        //user.AddVideo(vid10);
 
         Console.WriteLine("\nPengetesan method GetTotalVideoPlayCount()");
         Console.WriteLine("Total views : " + user.GetTotalVideoPlayCount());
