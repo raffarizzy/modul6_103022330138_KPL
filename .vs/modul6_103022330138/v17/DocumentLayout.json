@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{79BC4B32-28FE-4A0E-99DB-FC8A12AB3069}|modul6_103022330138.csproj|c:\\praktikum\\modul6_103022330138\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79BC4B32-28FE-4A0E-99DB-FC8A12AB3069}|modul6_103022330138.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BC4B32-28FE-4A0E-99DB-FC8A12AB3069}|modul6_103022330138.csproj|c:\\praktikum\\modul6_103022330138\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BC4B32-28FE-4A0E-99DB-FC8A12AB3069}|modul6_103022330138.csproj|solutionrelative:sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BC4B32-28FE-4A0E-99DB-FC8A12AB3069}|modul6_103022330138.csproj|c:\\praktikum\\modul6_103022330138\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BC4B32-28FE-4A0E-99DB-FC8A12AB3069}|modul6_103022330138.csproj|solutionrelative:sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeUser.cs",
+              "DocumentMoniker": "C:\\PRAKTIKUM\\modul6_103022330138\\SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "SayaTubeUser.cs",
+              "ToolTip": "C:\\PRAKTIKUM\\modul6_103022330138\\SayaTubeUser.cs",
+              "RelativeToolTip": "SayaTubeUser.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:50:33.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\PRAKTIKUM\\modul6_103022330138\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "SayaTubeVideo.cs",
+              "ToolTip": "C:\\PRAKTIKUM\\modul6_103022330138\\SayaTubeVideo.cs",
+              "RelativeToolTip": "SayaTubeVideo.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:50:21.841Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\PRAKTIKUM\\modul6_103022330138\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T08:44:27.804Z",
               "EditorCaption": ""

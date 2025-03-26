@@ -1,0 +1,15 @@
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.AssemblyInfoInputs.cache
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.AssemblyInfo.cs
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.csproj.CoreCompileInputs.cache
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.sourcelink.json
+C:\PRAKTIKUM\modul6_103022330138\bin\Debug\net8.0\modul6_103022330138.exe
+C:\PRAKTIKUM\modul6_103022330138\bin\Debug\net8.0\modul6_103022330138.deps.json
+C:\PRAKTIKUM\modul6_103022330138\bin\Debug\net8.0\modul6_103022330138.runtimeconfig.json
+C:\PRAKTIKUM\modul6_103022330138\bin\Debug\net8.0\modul6_103022330138.dll
+C:\PRAKTIKUM\modul6_103022330138\bin\Debug\net8.0\modul6_103022330138.pdb
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.dll
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\refint\modul6_103022330138.dll
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.pdb
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\modul6_103022330138.genruntimeconfig.cache
+C:\PRAKTIKUM\modul6_103022330138\obj\Debug\net8.0\ref\modul6_103022330138.dll
